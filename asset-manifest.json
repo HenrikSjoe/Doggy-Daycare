@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Doggy-Daycare/static/css/main.18d33537.css",
+    "main.js": "/Doggy-Daycare/static/js/main.95c90bc8.js",
+    "static/js/787.b7d35402.chunk.js": "/Doggy-Daycare/static/js/787.b7d35402.chunk.js",
+    "static/media/dogbath.jpeg": "/Doggy-Daycare/static/media/dogbath.fd372d2cbef6396eaeb0.jpeg",
+    "static/media/dogs_day_out.png": "/Doggy-Daycare/static/media/dogs_day_out.1e579513b4a4f583f539.png",
+    "static/media/daycare.jpeg": "/Doggy-Daycare/static/media/daycare.6bc8ea8a66258451d66c.jpeg",
+    "index.html": "/Doggy-Daycare/index.html",
+    "main.18d33537.css.map": "/Doggy-Daycare/static/css/main.18d33537.css.map",
+    "main.95c90bc8.js.map": "/Doggy-Daycare/static/js/main.95c90bc8.js.map",
+    "787.b7d35402.chunk.js.map": "/Doggy-Daycare/static/js/787.b7d35402.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18d33537.css",
+    "static/js/main.95c90bc8.js"
+  ]
+}
